@@ -1,7 +1,6 @@
 # Form
 Form Validation 
-with my own API
-+ Regular Expression
+with my own API+ Regular Expression
 
 
 Description :
